@@ -1,0 +1,2 @@
+#milton
+print(len(input()))
